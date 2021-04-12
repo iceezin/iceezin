@@ -1,6 +1,6 @@
-- 👋 Olá, Me chamo Chrystiam Oliveira, Brasileiro de 22 anos e atualmente focado na área de Front-End.
-- 👀 Tenho Interesse futuramente em aprender I.A e Machine Learning porque é algo que sempre me deixou facinado.
-- 🌱 Estou atualmente estudando HTML / CSS  e Javascript.
+- 👋 Olá, Me chamo Chrystiam Oliveira, Brasileiro de 22 anos, Morando na cidade do Guarujá/SP e focado na área de Front-End.
+- 👀 Tenho Interesse futuramente em aprender I.A e Machine Learning porque é algo que sempre me deixou facinado e com vontade de aprender.
+- 🌱 Estou atualmente estudando HTML / CSS  e Javascript. 
 -  Pode me encontrar nas redes sociais abaixo
 
 ![icons8-twitter-48](https://user-images.githubusercontent.com/59629807/114458223-4f7e5f80-9bb5-11eb-9da4-636ad0845b7f.png) <a href="https://twitter.com/iceezin">iceezin</a>
