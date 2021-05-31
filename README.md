@@ -9,6 +9,8 @@
 
 ![icons8-instagram-48](https://user-images.githubusercontent.com/59629807/114458537-af750600-9bb5-11eb-9b08-dfdb07f41454.png) <a href="https://www.instagram.com/chrystiam__/">chrystiam__</a>
 
+![Snake animation](https://github.com/iceezin/iceezin/blob/output/github-contribution-grid-snake.svg)
+
 
 
 
