@@ -1,19 +1,23 @@
-- 👋 Olá, Me chamo Chrystiam Oliveira, Brasileiro de 22 anos, Morando na cidade do Guarujá/SP e focado na área de Front-End.
-- 👀 Tenho Interesse futuramente em aprender I.A e Machine Learning porque é algo que sempre me deixou facinado e com vontade de aprender.
-- 🌱 Estou atualmente estudando HTML / CSS  e Javascript. 
--  Pode me encontrar nas redes sociais abaixo
+  ##
+  👋 Olá, Me chamo Chrystiam Oliveira, Brasileiro de 22 anos, Morando na cidade do Guarujá/SP e focado na área de Front-End.
+        
+  👀 Tenho Interesse futuramente em aprender I.A e Machine Learning porque é algo que sempre me deixou facinado e com vontade de aprender.
 
-![icons8-twitter-48](https://user-images.githubusercontent.com/59629807/114458223-4f7e5f80-9bb5-11eb-9da4-636ad0845b7f.png) <a href="https://twitter.com/iceezin">iceezin</a>
+  🌱 Estou atualmente estudando <img align="center" alt="ice-HTML" height="30" width="40"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> / <img align="center" alt="ice-CSS" height="30" width="40"            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> / <img align="center" alt="ice-Js" height="30" width="40"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 
-![icons8-facebook-48](https://user-images.githubusercontent.com/59629807/114458658-d9c6c380-9bb5-11eb-9928-efb57e50f0c8.png) <a href="https://www.facebook.com/iceezin/">iceezin</a>
-
-![icons8-instagram-48](https://user-images.githubusercontent.com/59629807/114458537-af750600-9bb5-11eb-9b08-dfdb07f41454.png) <a href="https://www.instagram.com/chrystiam__/">chrystiam__</a>
-
-![Snake animation](https://github.com/iceezin/iceezin/blob/output/github-contribution-grid-snake.svg)
-
-
-
-
-
-
-
+  Pode me encontrar nas redes sociais abaixo
+  ##
+<div>
+ <a href="https://github.com/iceezin">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=iceezin&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iceezin&layout=compact&langs_count=16&theme=dracula"/>
+<div>
+  
+<div> 
+  <a href="https://instagram.com/chrystiam_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto: chrystiamoliveira@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  
+##
+  
+  ![Snake animation](https://github.com/iceezin/iceezin/blob/output/github-contribution-grid-snake.svg)
+</div>  
