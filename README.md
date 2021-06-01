@@ -1,7 +1,7 @@
   ##
   👋 Olá, Me chamo Chrystiam Oliveira, Brasileiro de 22 anos, Morando na cidade do Guarujá/SP e focado na área de Front-End.
         
-  👀 Tenho Interesse futuramente em aprender I.A e Machine Learning porque é algo que sempre me deixou facinado e com vontade de aprender.
+  👀 Tenho Interesse futuramente em aprender Machine Learning porque é algo que sempre me deixou facinado e com vontade de aprender.
 
   🌱 Estou atualmente estudando <img align="center" alt="ice-HTML" height="30" width="40"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> / <img align="center" alt="ice-CSS" height="30" width="40"            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> / <img align="center" alt="ice-Js" height="30" width="40"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 
